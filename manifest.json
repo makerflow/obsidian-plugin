@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "makerflow",
+	"name": "Makerflow: Pomodoro timer and distraction blocker",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "Makerflow helps you get in the zone and stay there. Accomplish more in flow state.",
+	"author": "Vivek Ranjan",
+	"authorUrl": "https://makerflow.co",
+	"isDesktopOnly": true
 }
